@@ -30,15 +30,12 @@ I'm an indie backend and web3 developer. All coding projects are built from the 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <!--
-
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
 -->
  
 <br />
@@ -54,6 +51,19 @@ I'm an indie backend and web3 developer. All coding projects are built from the 
 #
 
 <details>
- <summary><h3>👨‍💻 Georges-Charles's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Georges-Charles's Coding Journey </h3></summary>
    I started my coding journey as a Qlik Data Vizualisation consultant.
+
+<details>
+ <summary><h3> Projects i'm working on </h3></summary>
+   - Custodial USSD wallet for the Sui Network
+   - (Curabolist)[https://curabolist.com] -
+
+ <details>
+  <summary><h3> Languages and Tools </h3></summary>
+   - Python
+  
+   - Javascript
+  
+   
  

@@ -57,7 +57,7 @@ I'm an indie backend and web3 developer. All coding projects are built from the 
 <details>
  <summary><h3> Projects i'm working on </h3></summary>
    - Custodial USSD wallet for the Sui Network
-   - (Curabolist)[https://curabolist.com] -
+   - [Curabolist][https://curabolist.com] -
 
  <details>
   <summary><h3> Languages and Tools </h3></summary>

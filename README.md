@@ -51,19 +51,24 @@ I'm an indie backend and web3 developer. All coding projects are built from the 
 #
 
 <details>
- <summary><h3>👨‍💻 Georges-Charles's Coding Journey </h3></summary>
-   I started my coding journey as a Qlik Data Vizualisation consultant.
+  <summary><h3>👨‍💻 Georges-Charles's Coding Journey </h3></summary>
+    I started my coding journey as a Qlik Data Vizualization consultant.
+</details>
 
 <details>
- <summary><h3> Projects i'm working on </h3></summary>
-   - Custodial USSD wallet for the Sui Network
-   - [Curabolist][https://curabolist.com] -
+  <summary><h3> Projects i'm working on </h3></summary>
+    - Custodial USSD wallet for the Sui Network
+    - [Curabolist](https://curabolist.com)
+</details>
 
- <details>
+<details>
   <summary><h3> Languages and Tools </h3></summary>
-   - Python
+    - Python
   
-   - Javascript
+    - Javascript
   
-   
- 
+    - Tools:
+    Linux, Zsh, 
+    Qlik, Notion, Asana, gsheets
+</details>
+

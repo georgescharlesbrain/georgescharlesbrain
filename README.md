@@ -110,30 +110,30 @@ I'm an indie backend and web3 developer. All coding projects are built from the 
  
  Built a proprietary cross-exchange triangular arbitrage market-making trading engine
  Built using:
-  - Python: CCXT, threading, logging, SQLAlchemy, Redis, boto3, Pandas, Numpy, Dask, Altair, concurrent
-  - AWS: EC2, RDS, CloudWatch, IAM, SageMaker, Parameter Store, S3
-  - Tools: Redis, MySQL, Linux, git, Atom+hydrogen, Jupyter Lab, Asana, HeidiSQL, P3X Redis Client, 
-  - ConEmu, bitbucket, VPN, QlikView, TradingView
-     Features:
-     - CCXT exchange APIs integration and requests wrapper
-     - CCXT exchange API unit tests evaluation script
-     - Oanda Forex API integration
-     - A universal bot for parameterized market making in any market vs reference markets
-     - An order placement optimizer, dependent on the order book and tunable parameters per market
-     - Monitoring:
-       - Email alerts
-       - Market maker checker (removes all the orders of the books in a self-detected emergency) (python script)
-       - Balance overview on request (console)
-       - Open orders on request (console)
-       - Bot state on request (Redis viewer)
-       - Detailed bot logs (Cloudwatch)
-     - A current market state which fetches order books and tickers from all relevant CCXT exchange
-     - A balance state which regularly fetches the balances of exchange accounts
-     - Total balance over multiple exchange accounts and currencies with time comparison and a backup position re-balancer
-     - A parameterized capital management script to auto-transfer crypto assets across multiple exchanges based on balance targets and accompanying thresholds
-     - A public trades fetcher for all relevant CCXT exchanges and markets
-     - A public trades processor to convert all prices to EUR and add reference bids or asks
-     - Market profitability analyzer based on the processed public trades
+  Python: CCXT, threading, logging, SQLAlchemy, Redis, boto3, Pandas, Numpy, Dask, Altair, concurrent
+  AWS: EC2, RDS, CloudWatch, IAM, SageMaker, Parameter Store, S3
+  Tools: Redis, MySQL, Linux, git, Atom+hydrogen, Jupyter Lab, Asana, HeidiSQL, P3X Redis Client, 
+  ConEmu, bitbucket, VPN, QlikView, TradingView
+ Features:
+ - CCXT exchange APIs integration and requests wrapper
+ - CCXT exchange API unit tests evaluation script
+ - Oanda Forex API integration
+ - A universal bot for parameterized market making in any market vs reference markets
+ - An order placement optimizer, dependent on the order book and tunable parameters per market
+ - Monitoring:
+   - Email alerts
+   - Market maker checker (removes all the orders of the books in a self-detected emergency) (python script)
+   - Balance overview on request (console)
+   - Open orders on request (console)
+   - Bot state on request (Redis viewer)
+   - Detailed bot logs (Cloudwatch)
+ - A current market state which fetches order books and tickers from all relevant CCXT exchange
+ - A balance state which regularly fetches the balances of exchange accounts
+ - Total balance over multiple exchange accounts and currencies with time comparison and a backup position re-balancer
+ - A parameterized capital management script to auto-transfer crypto assets across multiple exchanges based on balance targets and accompanying thresholds
+ - A public trades fetcher for all relevant CCXT exchanges and markets
+ - A public trades processor to convert all prices to EUR and add reference bids or asks
+ - Market profitability analyzer based on the processed public trades
     
 </details>
 

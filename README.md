@@ -65,9 +65,10 @@ AWS
 
 <details>
   <summary><h3> 🚧 Projects I'm working on </h3></summary>
-  - (Sui) USSD wallet for the Sui Network
-  - (Sui) [Curabolist](https://curabolist.com) - Curate, collaborate, and monetize online research about any topic
-  - Grid trading (custom gsheet model)
+  
+  - (Sui) USSD wallet for the Sui Network  
+  - (Sui) [Curabolist](https://curabolist.com) - Curate, collaborate, and monetize online research about any topic  
+  - Grid trading (custom gsheet model)  
 
 </details>
 

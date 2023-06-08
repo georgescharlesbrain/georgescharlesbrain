@@ -5,15 +5,16 @@ This is the repo from which the github profile is generated.
 Fork the github profile repos and copy the interesting parts.
 
 Inspiration for GitHub Profiles:
+https://github.com/kautukkundan/Awesome-Profile-README-templates
 https://github.com/ForrestKnight/ForrestKnight
 
 
 -->
 # 🏄‍♂️ Georges-Charles Brain
 
-**`Digital Craftsman (Sui Move Developer / Proprietary Crypto Market Maker)`**
+**`Digital Craftsman (Sui Move Developer / Web3 Analyst / Proprietary Crypto Market Maker)`**
 
-I'm a backend and web3 developer with a background in analytics. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+I'm a backend and web3 developer with a history in analytics. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am documenting my learnings in my [public notes](notes.georgescharlesbrain.com).
 
 
 ---
@@ -30,6 +31,13 @@ I'm a backend and web3 developer with a background in analytics. All coding proj
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <!--
+
+VS Code
+Terminal
+Sui Move
+AWS
+
+
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />

@@ -40,27 +40,20 @@ I'm an indie backend and web3 developer. All coding projects are built from the 
  
 <br />
 
-#
-
-### 📊 Stats
-
-![Georges-Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgescharlesbrain&show_icons=true&theme=gruvbox) ![GitHub Streak](https://streak-stats.demolab.com?user=georgescharlesbrain&theme=gruvbox&border_radius=4.5)
-
-
 
 #
-
+<!-- 
 <details>
   <summary><h3>👨‍💻 Georges-Charles's Coding Journey </h3></summary>
     I started my coding journey as a Qlik Data Vizualization consultant.
 </details>
+ -->
 
 <details>
-  <summary><h3> Projects i'm working on: </h3></summary>
+  <summary><h3> Projects I'm working on: </h3></summary>
   Custodial USSD wallet for the Sui Network  
-
-  [Curabolist](https://curabolist.com) - Curate, collaborate, and monetize online research about any topic.
-
+ 
+  [Curabolist](https://curabolist.com) - Curate, collaborate, and monetize online research about any topic.  
   Grid trading (custom gsheet model)
 
 </details>
@@ -113,7 +106,7 @@ I'm an indie backend and web3 developer. All coding projects are built from the 
 </details>
 
 <details>
-  <summary><h3> Project details; </h3></summary>
+  <summary><h3> Detailed description of projects: </h3></summary>
     Built a proprietary cross-exchange triangular arbitrage market-making trading engine
     Built using:
       Python: CCXT, threading, logging, SQLAlchemy, Redis, boto3, Pandas, Numpy, Dask, Altair, concurrent
@@ -142,4 +135,10 @@ I'm an indie backend and web3 developer. All coding projects are built from the 
     - Market profitability analyzer based on the processed public trades
     
 </details>
+
+#
+
+### 📊 Stats
+
+![Georges-Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgescharlesbrain&show_icons=true&theme=gruvbox) ![GitHub Streak](https://streak-stats.demolab.com?user=georgescharlesbrain&theme=gruvbox&border_radius=4.5)
 

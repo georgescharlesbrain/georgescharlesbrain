@@ -14,8 +14,14 @@ https://github.com/ForrestKnight/ForrestKnight
 
 **`Digital Craftsman (Sui Move Developer / Web3 Analyst / Proprietary Crypto Market Maker)`**
 
-I'm a backend and web3 developer with a history in analytics. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am documenting my learnings in my [public notes](https://notes.georgescharlesbrain.com).
+I'm a backend and web3 developer with a history in analytics. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am documenting my learnings in my [public notes](https://notes.georgescharlesbrain.com). I'm looking to collaborate with frontend and Sui devs to build new web3 products.
 
+Feel free to reach out on:
+
+<a href="https://twitter.com/georges_c_brain">
+  <img align="left" alt="Georges-Charles's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+</br>
 
 ---
 
@@ -58,16 +64,15 @@ AWS
  -->
 
 <details>
-  <summary><h3> 🚧 Projects I'm working on: </h3></summary>
-  (Sui) USSD wallet for the Sui Network  
- 
-  (Sui) [Curabolist](https://curabolist.com) - Curate, collaborate, and monetize online research about any topic.  
-  Grid trading (custom gsheet model)
+  <summary><h3> 🚧 Projects I'm working on </h3></summary>
+  - (Sui) USSD wallet for the Sui Network
+  - (Sui) [Curabolist](https://curabolist.com) - Curate, collaborate, and monetize online research about any topic
+  - Grid trading (custom gsheet model)
 
 </details>
 
 <details>
-  <summary><h3> 🚢 Projects I worked on: </h3></summary>
+  <summary><h3> 🚢 Projects I worked on </h3></summary>
 
   - MoveToEarn / Stepn: a team of 9 East-Africans employees walked 90 phones daily for 6 months, totaling 16200km   
   - Reality Mining: community-sourced street-level imagery and map data, 2 employees mapped a city neigborhood using RealityMaps (shut down)
@@ -124,7 +129,7 @@ AWS
 </details>
 
 <details>
- <summary><h3> 🕵️ Detailed description of projects: </h3></summary>
+ <summary><h3> 🕵️ Detailed description of projects </h3></summary>
 
   <details>
     <summary><h3> A proprietary cross-exchange triangular arbitrage market-making trading system written in Python: </h3></summary>
@@ -158,6 +163,7 @@ AWS
   </details>
 
 </details>
+
 
 #
 

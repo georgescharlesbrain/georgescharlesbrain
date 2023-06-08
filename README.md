@@ -37,11 +37,9 @@ I'm a backend and web3 developer with a background in analytics. All coding proj
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 -->
- 
-<br />
-
 
 #
+
 <!-- 
 <details>
   <summary><h3>👨‍💻 Georges-Charles's Coding Journey </h3></summary>
@@ -61,8 +59,8 @@ I'm a backend and web3 developer with a background in analytics. All coding proj
 <details>
   <summary><h3> Projects I worked on: </h3></summary>
 
-  - MoveToEarn / Stepn - a team of 9 East-Africans Employees walked 90 phones daily for 6 months, totaling 16200km   
-  - Reality Mining - community-sourced street-level imagery and map data, 2 employees mapped a city neigborhood using RealityMaps (shut down) which wasn't mapped by Google Streetview since 7 years
+  - MoveToEarn / Stepn: a team of 9 East-Africans employees walked 90 phones daily for 6 months, totaling 16200km   
+  - Reality Mining: community-sourced street-level imagery and map data, 2 employees mapped a city neigborhood using RealityMaps (shut down)
   - Algorithmic cash & carry - perpetual funding rate arbitrage
   - Hedged Yield Farming on Ethereum and Solana (APY.vision, tulip.garden, custom gsheet model)
   - [Solana Ecosystem Database](https://ufahamu.notion.site/f8cf55a53ac34d118aae18b906aff319?v=2420b81d89f24442a4ff7e89c5fe38ad&pvs=4) - Community maintained, includes pre-token and pre-mainnet projects, sorting of projects by category, dev stage and other properties
@@ -81,14 +79,14 @@ I'm a backend and web3 developer with a background in analytics. All coding proj
   **Python:**
   CCXT, threading, logging, SQLAlchemy, Redis, boto3, Pandas, Numpy, Dask, Altair, concurrent
 
-  **Javascript / Typescript**
+  **Javascript / Typescript**:
   Node, Express
 
   **Web3 tools:** duneanalytics, thegraph,
 
   **AWS:** EC2, RDS, CloudWatch, IAM, SageMaker, Parameter Store, S3
 
-  **Tools:**
+  **Other tools:**
   VS Code, Jupyter Lab, Linux, Zsh, Redis, MySQL, git, render.com, Notion, Asana, gsheets, HeidiSQL, Qlik, TradingView  
 
 </details>

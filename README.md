@@ -52,13 +52,13 @@ AWS
 
 <!-- 
 <details>
-  <summary><h3>👨‍💻 Georges-Charles's Coding Journey </h3></summary>
+  <summary><h3> 👨‍💻 Georges-Charles's Coding Journey </h3></summary>
     I started my coding journey as a Qlik Data Vizualization consultant.
 </details>
  -->
 
 <details>
-  <summary><h3> Projects I'm working on: </h3></summary>
+  <summary><h3> 🚧 Projects I'm working on: </h3></summary>
   (Sui) USSD wallet for the Sui Network  
  
   (Sui) [Curabolist](https://curabolist.com) - Curate, collaborate, and monetize online research about any topic.  
@@ -67,7 +67,7 @@ AWS
 </details>
 
 <details>
-  <summary><h3> Projects I worked on: </h3></summary>
+  <summary><h3> 🚢 Projects I worked on: </h3></summary>
 
   - MoveToEarn / Stepn: a team of 9 East-Africans employees walked 90 phones daily for 6 months, totaling 16200km   
   - Reality Mining: community-sourced street-level imagery and map data, 2 employees mapped a city neigborhood using RealityMaps (shut down)
@@ -82,7 +82,7 @@ AWS
 </details>
 
 <details>
-  <summary><h3> Languages and Tools </h3></summary>
+  <summary><h3>🧰 Languages and Tools </h3></summary>
 
   **Sui move:**
 
@@ -102,7 +102,7 @@ AWS
 </details>
 
 <details>
-  <summary><h3> Web3 /  DeFi / Crypto </h3></summary>
+  <summary><h3> 🚀 Web3 /  DeFi / Crypto </h3></summary>
 
   I've been near full-time exploring the crypto / defi / web3 world since the end of 2017. I've studied, interacted with and have a decent understanding of the following protocols:
 
@@ -124,7 +124,7 @@ AWS
 </details>
 
 <details>
- <summary><h3> Detailed description of projects: </h3></summary>
+ <summary><h3> 🕵️ Detailed description of projects: </h3></summary>
 
   <details>
     <summary><h3> A proprietary cross-exchange triangular arbitrage market-making trading system written in Python: </h3></summary>

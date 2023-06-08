@@ -5,6 +5,9 @@ This is the repo from which the github profile is generated.
 Fork the github profile repos and copy the interesting parts.
 
 Inspiration for GitHub Profiles:
+check the advanced stats
+https://github.com/bruceeewong/bruceeewong
+
 https://github.com/kautukkundan/Awesome-Profile-README-templates
 https://github.com/ForrestKnight/ForrestKnight
 

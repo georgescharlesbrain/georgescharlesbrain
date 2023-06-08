@@ -106,13 +106,13 @@ I'm an indie backend and web3 developer. All coding projects are built from the 
 </details>
 
 <details>
-  <summary><h3> Detailed description of projects: </h3></summary>
-    Built a proprietary cross-exchange triangular arbitrage market-making trading engine
-    Built using:
-      Python: CCXT, threading, logging, SQLAlchemy, Redis, boto3, Pandas, Numpy, Dask, Altair, concurrent
-      AWS: EC2, RDS, CloudWatch, IAM, SageMaker, Parameter Store, S3
-      Tools: Redis, MySQL, Linux, git, Atom+hydrogen, Jupyter Lab, Asana, HeidiSQL, P3X Redis Client, 
-      ConEmu, bitbucket, VPN, QlikView, TradingView
+<summary><h3> Detailed description of projects: </h3></summary>
+ Built a proprietary cross-exchange triangular arbitrage market-making trading engine
+ Built using:
+ - Python: CCXT, threading, logging, SQLAlchemy, Redis, boto3, Pandas, Numpy, Dask, Altair, concurrent
+ - AWS: EC2, RDS, CloudWatch, IAM, SageMaker, Parameter Store, S3
+ - Tools: Redis, MySQL, Linux, git, Atom+hydrogen, Jupyter Lab, Asana, HeidiSQL, P3X Redis Client, 
+ - ConEmu, bitbucket, VPN, QlikView, TradingView
     Features:
     - CCXT exchange APIs integration and requests wrapper
     - CCXT exchange API unit tests evaluation script
@@ -140,5 +140,6 @@ I'm an indie backend and web3 developer. All coding projects are built from the 
 
 ### 📊 Stats
 
-![Georges-Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgescharlesbrain&show_icons=true&theme=gruvbox) ![GitHub Streak](https://streak-stats.demolab.com?user=georgescharlesbrain&theme=gruvbox&border_radius=4.5)
+![Georges-Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgescharlesbrain&show_icons=true&theme=gruvbox) 
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=georgescharlesbrain&theme=gruvbox&border_radius=4.5) -->
 

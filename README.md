@@ -109,12 +109,12 @@ I'm an indie backend and web3 developer. All coding projects are built from the 
  <summary><h3> Detailed description of projects: </h3></summary>
  
  Built a proprietary cross-exchange triangular arbitrage market-making trading engine <br />
- Built using: <br />
-  Python: CCXT, threading, logging, SQLAlchemy, Redis, boto3, Pandas, Numpy, Dask, Altair, concurrent <br />
-  AWS: EC2, RDS, CloudWatch, IAM, SageMaker, Parameter Store, S3 <br />
-  Tools: Redis, MySQL, Linux, git, Atom+hydrogen, Jupyter Lab, Asana, HeidiSQL, P3X Redis Client, 
-  ConEmu, bitbucket, VPN, QlikView, TradingView <br />
- Features:
+ ### Built using: <br />
+ Python: CCXT, threading, logging, SQLAlchemy, Redis, boto3, Pandas, Numpy, Dask, Altair, concurrent <br />
+ AWS: EC2, RDS, CloudWatch, IAM, SageMaker, Parameter Store, S3 <br />
+ Tools: Redis, MySQL, Linux, git, Atom+hydrogen, Jupyter Lab, Asana, HeidiSQL, P3X Redis Client, 
+ ConEmu, bitbucket, VPN, QlikView, TradingView <br />
+ ### Features:
  - CCXT exchange APIs integration and requests wrapper
  - CCXT exchange API unit tests evaluation script
  - Oanda Forex API integration

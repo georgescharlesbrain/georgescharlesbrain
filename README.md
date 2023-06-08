@@ -14,7 +14,7 @@ https://github.com/ForrestKnight/ForrestKnight
 
 **`Digital Craftsman (Sui Move Developer / Web3 Analyst / Proprietary Crypto Market Maker)`**
 
-I'm a backend and web3 developer with a history in analytics. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am documenting my learnings in my [public notes](notes.georgescharlesbrain.com).
+I'm a backend and web3 developer with a history in analytics. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am documenting my learnings in my [public notes](https://notes.georgescharlesbrain.com).
 
 
 ---

@@ -66,7 +66,7 @@ AWS
 </details>
  -->
 
-<details>
+<details open>
   <summary><h3> 🚧 Projects I'm working on </h3></summary>
   
   - [Sui | Solana | Aptos Ecosystem Database](https://ufahamu.notion.site/f8cf55a53ac34d118aae18b906aff319?v=2420b81d89f24442a4ff7e89c5fe38ad&pvs=4) - Community maintained, includes pre-token and pre-mainnet projects, sorting of projects by category, dev stage and other properties

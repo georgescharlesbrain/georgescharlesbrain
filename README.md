@@ -69,7 +69,8 @@ AWS
 <details>
   <summary><h3> 🚧 Projects I'm working on </h3></summary>
   
-  - (Sui) USSD wallet for the Sui Network  
+  - [Sui | Solana | Aptos Ecosystem Database](https://ufahamu.notion.site/f8cf55a53ac34d118aae18b906aff319?v=2420b81d89f24442a4ff7e89c5fe38ad&pvs=4) - Community maintained, includes pre-token and pre-mainnet projects, sorting of projects by category, dev stage and other properties
+  - (Sui) USSD feature phone wallet for the Sui Network  
   - (Sui) [Curabolist](https://curabolist.com) - Curate, collaborate, and monetize online research about any topic  
   - Grid trading (custom gsheet model)  
 
@@ -82,7 +83,6 @@ AWS
   - Reality Mining: community-sourced street-level imagery and map data, 2 employees mapped a city neigborhood using RealityMaps (shut down)
   - Algorithmic cash & carry - perpetual funding rate arbitrage
   - Hedged Yield Farming on Ethereum and Solana (APY.vision, tulip.garden, custom gsheet model)
-  - [Solana Ecosystem Database](https://ufahamu.notion.site/f8cf55a53ac34d118aae18b906aff319?v=2420b81d89f24442a4ff7e89c5fe38ad&pvs=4) - Community maintained, includes pre-token and pre-mainnet projects, sorting of projects by category, dev stage and other properties
   - Quant hedge fund investing
   - Uncollateralized lending (TrueFi, notes.finance)
   - A proprietary cross-exchange triangular arbitrage market-making trading engine written in Python (see detailed project description below)

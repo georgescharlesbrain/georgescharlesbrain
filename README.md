@@ -72,7 +72,8 @@ AWS
   - [Sui | Solana | Aptos Ecosystem Database](https://ufahamu.notion.site/f8cf55a53ac34d118aae18b906aff319?v=2420b81d89f24442a4ff7e89c5fe38ad&pvs=4) - Community maintained, includes pre-token and pre-mainnet projects, sorting of projects by category, dev stage and other properties
   - (Sui) USSD feature phone wallet for the Sui Network  
   - (Sui) [Curabolist](https://curabolist.com) - Curate, collaborate, and monetize online research about any topic  
-  - Grid trading (custom gsheet model)  
+  - Grid trading (custom gsheet model)
+  - [Awesome Sui - collaborative YouTube playlist](https://www.youtube.com/playlist?list=PLIQc7_iETjBw-SNAbhrfB7RDufbJ5Bi21) ([add a video](https://www.youtube.com/playlist?list=PLIQc7_iETjBw-SNAbhrfB7RDufbJ5Bi21&jct=4kFRpa--SjoyVZgX5M9QoRqm0SCBFw)) 
 
 </details>
 

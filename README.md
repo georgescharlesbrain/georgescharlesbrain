@@ -11,8 +11,8 @@ https://github.com/bruceeewong/bruceeewong
 https://github.com/kautukkundan/Awesome-Profile-README-templates
 https://github.com/ForrestKnight/ForrestKnight
 
-
 -->
+
 # 🏄‍♂️ Georges-Charles Brain
 
 **`Digital Craftsman (Sui Move Developer / Web3 Analyst / Proprietary Crypto Market Maker)`**
@@ -80,6 +80,7 @@ AWS
 <details>
   <summary><h3> 🚢 Projects I worked on </h3></summary>
 
+  - Solana defi arbitrage bot using jup.ag and ccxt
   - MoveToEarn / Stepn: a team of 9 East-Africans employees walked 90 phones daily for 6 months, totaling 16200km   
   - Reality Mining: community-sourced street-level imagery and map data, 2 employees mapped a city neigborhood using RealityMaps (shut down)
   - Algorithmic cash & carry - perpetual funding rate arbitrage

@@ -19,7 +19,8 @@ https://github.com/ForrestKnight/ForrestKnight
 
 I'm a backend and web3 developer with a background as a data analytics engineer, MSc. degree in Mechanical Engineering, and knowledge in quantitative finance, data visualization, and Economics. I get inspired by hard problems that could have a substantial human impact once solved. I like designing and building financial products, optimizing systems, creating structure, and getting the details right. I have a never-ending thirst for learning new concepts, skills, and improving my mental models. I am documenting my learnings in my [public notes](https://notes.georgescharlesbrain.com).
 
-Available to join a team with frontend and Sui devs to build new web3 Dapps.
+**Available to join a team with frontend and Sui devs to build new web3 Dapps.**
+
 
 Feel free to reach out on:
 
@@ -85,9 +86,9 @@ AWS
   <summary><h3> 🚢 Projects I worked on </h3></summary>
   
   - Grid trading (custom gsheet model)
-  - Solana defi arbitrage bot using jup.ag and ccxt
-  - MoveToEarn / Stepn: a team of 9 East-Africans employees walked 90 phones daily for 6 months, totaling 16200km
-  - [Second Brain](https://www.notion.so/ufahamu/5ca79d2b9fbb48d39a67141668a70990?v=82273a88bf39466d9d6c84490f4c8f2f)  
+  - Solana Defi arbitrage bot using jup.ag and ccxt
+  - [Second Brain](https://www.notion.so/ufahamu/5ca79d2b9fbb48d39a67141668a70990?v=82273a88bf39466d9d6c84490f4c8f2f) 
+  - MoveToEarn / Stepn: a team of 9 East-Africans employees walked 90 phones daily for 6 months, totaling 16200km 
   - Reality Mining: community-sourced street-level imagery and map data, 2 employees mapped a city neigborhood using RealityMaps (shut down)
   - Algorithmic cash & carry - perpetual funding rate arbitrage
   - Hedged Yield Farming on Ethereum and Solana (APY.vision, tulip.garden, custom gsheet model)

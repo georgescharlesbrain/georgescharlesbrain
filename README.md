@@ -17,7 +17,9 @@ https://github.com/ForrestKnight/ForrestKnight
 
 **`Digital Craftsman (Sui Move Developer / Web3 Analyst / Proprietary Crypto Market Maker)`**
 
-I'm a backend and web3 developer with a history in analytics. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am documenting my learnings in my [public notes](https://notes.georgescharlesbrain.com). I'm looking to collaborate with frontend and Sui devs to build new web3 products.
+I'm a backend and web3 developer with a background as a data analytics engineer, MSc. degree in Mechanical Engineering, and knowledge in quantitative finance, data visualization, and Economics. I get inspired by hard problems that could have a substantial human impact once solved. I like designing and building financial products, optimizing systems, creating structure, and getting the details right. I have a never-ending thirst for learning new concepts, skills, and improving my mental models. I am documenting my learnings in my [public notes](https://notes.georgescharlesbrain.com).
+
+Available to join a team with frontend and Sui devs to build new web3 Dapps.
 
 Feel free to reach out on:
 
@@ -62,26 +64,30 @@ AWS
 <!-- 
 <details>
   <summary><h3> 👨‍💻 Georges-Charles's Coding Journey </h3></summary>
-    I started my coding journey as a Qlik Data Vizualization consultant.
+    I started my coding journey as a Qlik Data visualization consultant.
 </details>
  -->
 
 <details open>
   <summary><h3> 🚧 Projects I'm working on </h3></summary>
-  
-  - [Sui | Solana | Aptos Ecosystem Database](https://ufahamu.notion.site/f8cf55a53ac34d118aae18b906aff319?v=2420b81d89f24442a4ff7e89c5fe38ad&pvs=4) - Community maintained, includes pre-token and pre-mainnet projects, sorting of projects by category, dev stage and other properties
-  - (Sui) USSD feature phone wallet for the Sui Network  
-  - (Sui) [Curabolist](https://curabolist.com) - Curate, collaborate, and monetize online research about any topic  
-  - Grid trading (custom gsheet model)
-  - [Awesome Sui - collaborative YouTube playlist](https://www.youtube.com/playlist?list=PLIQc7_iETjBw-SNAbhrfB7RDufbJ5Bi21) ([add a video](https://www.youtube.com/playlist?list=PLIQc7_iETjBw-SNAbhrfB7RDufbJ5Bi21&jct=4kFRpa--SjoyVZgX5M9QoRqm0SCBFw)) 
 
+  
+  - Exploring Sui Move
+  - [Sui | Solana | Aptos Ecosystem Database](https://ufahamu.notion.site/f8cf55a53ac34d118aae18b906aff319?v=2420b81d89f24442a4ff7e89c5fe38ad&pvs=4) - Community maintained, includes pre-token and pre-mainnet projects, sorting of projects by category, dev stage, and other properties
+  - [Sui dev resources by GCB](https://www.notion.so/ufahamu/Sui-resources-public-6d70b35b67b344d5b9f027259dd3974f) 
+  - [Awesome Sui - collaborative YouTube playlist](https://www.youtube.com/playlist?list=PLIQc7_iETjBw-SNAbhrfB7RDufbJ5Bi21) ([add a video](https://www.youtube.com/playlist?list=PLIQc7_iETjBw-SNAbhrfB7RDufbJ5Bi21&jct=4kFRpa--SjoyVZgX5M9QoRqm0SCBFw))
+  - USSD feature phone wallet for the Sui Network (Sui) 
+  - [Curabolist](https://curabolist.com) - Curate, collaborate and monetize online research about any topic (Sui) 
+  
 </details>
 
 <details>
   <summary><h3> 🚢 Projects I worked on </h3></summary>
-
+  
+  - Grid trading (custom gsheet model)
   - Solana defi arbitrage bot using jup.ag and ccxt
-  - MoveToEarn / Stepn: a team of 9 East-Africans employees walked 90 phones daily for 6 months, totaling 16200km   
+  - MoveToEarn / Stepn: a team of 9 East-Africans employees walked 90 phones daily for 6 months, totaling 16200km
+  - [Second Brain](https://www.notion.so/ufahamu/5ca79d2b9fbb48d39a67141668a70990?v=82273a88bf39466d9d6c84490f4c8f2f)  
   - Reality Mining: community-sourced street-level imagery and map data, 2 employees mapped a city neigborhood using RealityMaps (shut down)
   - Algorithmic cash & carry - perpetual funding rate arbitrage
   - Hedged Yield Farming on Ethereum and Solana (APY.vision, tulip.garden, custom gsheet model)
@@ -89,6 +95,7 @@ AWS
   - Uncollateralized lending (TrueFi, notes.finance)
   - A proprietary cross-exchange triangular arbitrage market-making trading engine written in Python (see detailed project description below)
   - Manual triangular arbitrage vs Fiat on CEXs
+  - Online course about advanced qlik data analytics apps
 
 </details>
 
@@ -133,6 +140,19 @@ AWS
   RealityCoin, Hivemapper
     
 </details>
+
+
+<details>
+  <summary><h3> :poop:  Fun facts </h3></summary>
+
+  - In Oct 2020, I saw scams taking off with fake domain names. To do something for the community, I bought the domain names opensea.exchange, sorare.exchange, rarible.exchange, and many other NFT marketplace domains. However, I've never bought an NFT.
+  - Lived in East Africa (2 years), Latin America (4 months)
+  - Explored GameFi opportunities in East Africa. Most noteworthy, set up a team of 9 employees to play Stepn (16200 km walked|6 months|90 phones)
+  
+
+</details>
+
+
 
 <details>
  <summary><h3> 🕵️ Detailed description of projects </h3></summary>

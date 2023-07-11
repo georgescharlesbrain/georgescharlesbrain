@@ -72,7 +72,7 @@ AWS
   <summary><h3> 🚧 Projects I'm working on </h3></summary>
 
   
-  - Exploring Sui Move
+  - [Exploring Sui Move](https://github.com/georgescharlesbrain/sui_shared)
   - [Sui | Solana | Aptos Ecosystem Database](https://ufahamu.notion.site/f8cf55a53ac34d118aae18b906aff319?v=2420b81d89f24442a4ff7e89c5fe38ad&pvs=4) - Community maintained, includes pre-token and pre-mainnet projects, sorting of projects by category, dev stage, and other properties
   - [Sui dev resources by GCB](https://www.notion.so/ufahamu/Sui-resources-public-6d70b35b67b344d5b9f027259dd3974f) 
   - [Awesome Sui - collaborative YouTube playlist](https://www.youtube.com/playlist?list=PLIQc7_iETjBw-SNAbhrfB7RDufbJ5Bi21) ([add a video](https://www.youtube.com/playlist?list=PLIQc7_iETjBw-SNAbhrfB7RDufbJ5Bi21&jct=4kFRpa--SjoyVZgX5M9QoRqm0SCBFw))

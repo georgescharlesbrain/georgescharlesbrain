@@ -122,7 +122,7 @@ AWS
 <details>
   <summary><h3> 🚀 Web3 /  DeFi / Crypto </h3></summary>
 
-  I've been near full-time exploring the crypto / defi / web3 world since the end of 2017. I've studied, interacted with and have a decent understanding of the following protocols:
+  I've been nearly full-time exploring the crypto / defi / web3 world since the end of 2017. I've studied, interacted with and have a decent understanding of the following protocols:
 
   **Sui:**  
   protocols: SNS
@@ -145,9 +145,9 @@ AWS
 <details>
   <summary><h3> :poop:  Fun facts </h3></summary>
 
-  - In Oct 2020, I saw scams taking off with fake domain names. To do something for the community, I bought the domain names opensea.exchange, sorare.exchange, rarible.exchange, and many other NFT marketplace domains. However, I've never bought an NFT.
-  - Lived in East Africa (2 years), Latin America (4 months)
-  - Explored GameFi opportunities in East Africa. Most noteworthy, set up a team of 9 employees to play Stepn (16200 km walked|6 months|90 phones)
+  - In October 2020, I noticed an increase in scams involving fake domain names. Wanting to help the community, I decided to purchase several NFT marketplace domains including opensea.exchange, sorare.exchange, and rarible.exchange. Despite owning these domains, I have never personally bought an NFT.
+  - I have lived in East Africa for 2 years and Latin America for 4 months.
+  - I explored GameFi opportunities in East Africa. One of the more interesting experiences was setting up a team of 9 employees to play Stepn, which resulted in 16200 kilometers walked over a period of 6 months using 90 phones.
   
 
 </details>
@@ -174,8 +174,8 @@ AWS
   - Monitoring:
     - Email alerts
     - Market maker checker (removes all the orders of the books in a self-detected emergency) (python script)
-    - Balance overview on request (console)
-    - Open orders on request (console)
+    - Balance overview on request (terminal)
+    - Open orders on request (terminal)
     - Bot state on request (Redis viewer)
     - Detailed bot logs (Cloudwatch)
   - A current market state which fetches order books and tickers from all relevant CCXT exchange

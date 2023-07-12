@@ -17,7 +17,7 @@ https://github.com/ForrestKnight/ForrestKnight
 
 **`Digital Craftsman (Sui Move Developer / Web3 Analyst / Proprietary Crypto Market Maker)`**
 
-**Available to join a team as a Sui move and backend developer to build new web3 Dapps.**
+**Available to join a team as a Sui move and backend developer.**
 
 I am a backend and web3 developer with a background in data analytics engineering, holding an MSc. degree in Mechanical Engineering. My expertise also extends to quantitative finance, data visualization, and Economics. I am passionate about tackling challenging problems that could make a significant human impact once solved. I enjoy developing financial products, optimizing systems, creating structure, and paying attention to details. I am constantly seeking to expand my knowledge by learning new concepts and skills and enhancing my mental models. I keep track of my learning progress by documenting it in my [public notes](https://notes.georgescharlesbrain.com).
 

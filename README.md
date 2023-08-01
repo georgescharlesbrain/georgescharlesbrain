@@ -23,9 +23,17 @@ I've been nearly full-time exploring the crypto / defi / web3 world since the en
 
 Feel free to reach out on:
 
+<!--
+  github.com/simple-icons/simple-icons
+-->
+
 <a href="https://twitter.com/georges_c_brain">
-  <img align="left" alt="Georges-Charles's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Georges-Charles's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" />
 </a>
+<a href="https://linktr.ee/georgescharlesbrain">
+  <img align="left" alt="Georges-Charles's linktree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linktree.svg" />
+</a>
+
 </br>
 
 ---

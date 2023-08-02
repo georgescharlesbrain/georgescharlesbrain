@@ -130,16 +130,16 @@ AWS
 <details>
   <summary><h3> 🚀 Web3 /  DeFi / Crypto </h3></summary>
 
-  I've been nearly full-time exploring the crypto / defi / web3 world since the end of 2017. I've studied, interacted with and have a decent understanding of the following protocols:
+  I've been nearly full-time exploring the crypto / defi / web3 world since the end of 2017. I've studied, interacted with, and have an understanding of the following protocols:
 
   **Sui:**  
-  protocols: SNS
+  protocols: SNS, ...
 
   **Solana:**  
-  protocols: MNGO, SNY, TULIP, GMT/GST(Stepn), HXRO, MEAN, IVN, PRT, ATLAS/POLIS(Star Atlas), FIDA, GRAPE, RAY, PEOPLE, SBR, MAPS, OXY, SRM
+  protocols: MNGO, SNY, TULIP, GMT/GST(Stepn), HXRO, MEAN, IVN, PRT, ATLAS/POLIS(Star Atlas), FIDA, GRAPE, RAY, SBR, MAPS, OXY, SRM
 
   **Ethereum:**  
-  protocols: UMA, SNX, SUSHI, 1INCH, TRIBE/FEI, TRU, AMPL, BAND, ITGR, MLN, Augur, BAL, GLM
+  protocols: PEOPLE, UMA, SNX, UNI, SUSHI, 1INCH, TRIBE/FEI, TRU, AMPL, BAND, ITGR, MLN, Augur, BAL, GLM
 
   **Others L1s:**  
   Celo

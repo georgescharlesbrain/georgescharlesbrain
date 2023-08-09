@@ -15,7 +15,7 @@ https://github.com/ForrestKnight/ForrestKnight
 
 # 🏄‍♂️ Georges-Charles Brain
 
-**`Digital Craftsman (Sui Move Developer / Web3 Analyst / Proprietary Crypto Market Maker)`**
+**`Digital Craftsman (Sui Move Developer / Web3 Economy Designer )`**
 
 **Available to join a team as a Sui move and backend developer.**  
 

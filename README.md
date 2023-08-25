@@ -15,11 +15,11 @@ https://github.com/ForrestKnight/ForrestKnight
 
 # 🏄‍♂️ Georges-Charles Brain
 
-**`Digital Craftsman (Sui Move Developer / Web3 Economy Designer )`**
+**`Digital Craftsman / Sui Move Developer / Web3 Economy Designer`**
 
 **Available to join a team as a Sui move and backend developer.**  
 
-I've been nearly full-time exploring the crypto / defi / web3 world since the end of 2017. I've studied, interacted, and traded on many protocols on Ethereum and Solana. I am an aspiring backend and Sui Move web3 developer with a background in data analytics engineering, holding an MSc. degree in Mechanical Engineering. My expertise also extends to quantitative finance, data visualization, and Economics. I am passionate about tackling challenging problems that could make a significant human impact once solved. I enjoy developing financial products, optimizing systems, creating structure, and paying attention to details. I am constantly seeking to expand my knowledge by learning new concepts and skills and enhancing my mental models. I keep track of my learning progress by documenting it in my [public notes](https://notes.georgescharlesbrain.com).
+I've been nearly full-time exploring the crypto / defi / web3 world since the end of 2017. I've studied, interacted, and traded on many protocols on Ethereum and Solana. I am a Sui Move web3 developer and Token Engineer with a background in data analytics engineering, holding an MSc. degree in Mechanical Engineering. My expertise also extends to quantitative finance, data visualization, and Economics. I am passionate about tackling challenging problems that could make a significant human impact once solved. I enjoy developing financial products, optimizing systems, creating structure, and paying attention to details. I am constantly seeking to expand my knowledge by learning new concepts and skills and enhancing my mental models. I keep track of my learning progress by documenting it in my [public notes](https://notes.georgescharlesbrain.com).
 
 Feel free to reach out on:
 
@@ -79,7 +79,7 @@ AWS
 <details open>
   <summary><h3> 🚧 Projects I'm working on </h3></summary>
 
-  
+  - X Dapp
   - [Exploring Sui Move](https://github.com/georgescharlesbrain/sui_shared)
   - [Sui | Solana | Aptos Ecosystem Database](https://ufahamu.notion.site/f8cf55a53ac34d118aae18b906aff319?v=2420b81d89f24442a4ff7e89c5fe38ad&pvs=4) - Community maintained, includes pre-token and pre-mainnet projects, sorting of projects by category, dev stage, and other properties
   - [Sui dev resources by GCB](https://www.notion.so/ufahamu/Sui-resources-public-6d70b35b67b344d5b9f027259dd3974f) 

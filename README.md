@@ -91,7 +91,8 @@ AWS
 
 <details>
   <summary><h3> 🚢 Projects I worked on </h3></summary>
-  
+
+  - Future Hero YouTube Channels ([FutureHeroHealthEd](https://www.youtube.com/@FutureHeroHealthEd), [FutureHeroScienceEd](https://www.youtube.com/@FutureHeroScienceEd)).
   - Grid trading (custom gsheet model)
   - Solana Defi arbitrage bot using jup.ag and ccxt
   - [Second Brain](https://www.notion.so/ufahamu/5ca79d2b9fbb48d39a67141668a70990?v=82273a88bf39466d9d6c84490f4c8f2f) 

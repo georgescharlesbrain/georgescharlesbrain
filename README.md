@@ -79,8 +79,14 @@ AWS
 <details open>
   <summary><h3> 🚧 Projects I'm working on </h3></summary>
 
-  - X Dapp
-  - Future Hero - a multifaceted incentive system to stop the practice of child marriage and unwanted teenage pregnancy - [YouTube - A lost childhood (7min)](https://www.youtube.com/watch?v=Nx3Fio3oW3Y&ab_channel=UNICEFUganda) (coming soon) 
+  - [valuencer](https://www.valuencer.app/) - a platform to invest and bank on the future growth of creators
+
+</details>
+
+<details>
+  <summary><h3> 🚢 Projects I worked on </h3></summary>
+
+  - Future Hero - a multifaceted incentive system to stop the practice of child marriage and unwanted teenage pregnancy - [YouTube - A lost childhood (7min)](https://www.youtube.com/watch?v=Nx3Fio3oW3Y&ab_channel=UNICEFUganda)
   - Future Hero YouTube Channels ([FutureHeroHealthEd](https://www.youtube.com/@FutureHeroHealthEd), [FutureHeroScienceEd](https://www.youtube.com/@FutureHeroScienceEd)).
   - [Haraka Public Wifi hotspots in East-Africa](https://ufahamu.notion.site/Haraka-network-68e7f8e15d1f4b3eb5404a6e1394c696?pvs=4) 
   - [Exploring Sui Move](https://github.com/georgescharlesbrain/sui_shared)
@@ -89,13 +95,6 @@ AWS
   - [Awesome Sui - collaborative YouTube playlist](https://www.youtube.com/playlist?list=PLIQc7_iETjBw-SNAbhrfB7RDufbJ5Bi21) ([add a video](https://www.youtube.com/playlist?list=PLIQc7_iETjBw-SNAbhrfB7RDufbJ5Bi21&jct=4kFRpa--SjoyVZgX5M9QoRqm0SCBFw))
   - USSD feature phone wallet for the Sui Network (Sui) 
   - [Curabolist](https://curabolist.com) - Curate, collaborate and monetize online research about any topic (Sui)
-  
-  
-</details>
-
-<details>
-  <summary><h3> 🚢 Projects I worked on </h3></summary>
-  
   - Grid trading (custom gsheet model)
   - Solana Defi arbitrage bot using jup.ag and ccxt
   - [Second Brain](https://www.notion.so/ufahamu/5ca79d2b9fbb48d39a67141668a70990?v=82273a88bf39466d9d6c84490f4c8f2f) 
